@@ -6,7 +6,7 @@ CODE NAME: LINUX
 
 Richard Stallman: La PERSEVERACIA es la madre de todos los hackers y es marca la diferencia entre el éxito y el fracaso, donde los demás desisten, el hacker perseverá hasta lograrlo.
 
-Lista de Hackers
+Hackers:
 ---
   * https://es.wikipedia.org/wiki/Richard_Stallman
   * https://es.wikipedia.org/wiki/Eric_S._Raymond
