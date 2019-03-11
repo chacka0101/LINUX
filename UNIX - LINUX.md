@@ -1,11 +1,11 @@
-# UNIX - LINUX/GNU GPL
+# UNIX - LINUX / GNU GPL
 
 - 1969 - CODE NAME: UNIX
   * Unix es un sistema operativo portable, multitarea y multiusuario; desarrollado en 1969 por un grupo de empleados de los laboratorios Bell de AT&T, entre los que figuran Dennis Ritchie, Ken Thompson y Douglas McIlroy. El sistema, junto con todos los derechos fueron vendidos por AT&T a Novell.
 
   * Más información: https://es.wikipedia.org/wiki/Unix
 
-- CODE NAME: LINUX
+- 1969 - CODE NAME: LINUX 
 
   * GNU/Linux, también conocido como Linux, es un sistema operativo libre tipo Unix; multiplataforma, multiusuario y multitarea. El sistema es la combinación de varios proyectos, entre los cuales destacan GNU (encabezado por Richard Stallman y la Free Software Foundation) y el núcleo Linux (encabezado por Linus Torvalds). Su desarrollo es uno de los ejemplos más prominentes de software libre: todo su código fuente puede ser utilizado, modificado y redistribuido libremente por cualquiera, bajo los términos de la GPL (Licencia Pública General de GNU) y otra serie de licencias libres.1​
 
