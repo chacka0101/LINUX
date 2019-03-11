@@ -12,3 +12,5 @@ Lista de Hackers
   * https://es.wikipedia.org/wiki/Eric_S._Raymond
   * https://es.wikipedia.org/wiki/Linus_Torvalds
   * https://es.wikipedia.org/wiki/Jon_Hall
+ ---
+© 2010 - 2019 - Jairo A. Garcia H. - GNU GPL. 
