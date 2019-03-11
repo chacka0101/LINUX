@@ -1,5 +1,7 @@
 # UNIX - GNU/Linux - Debian
 
+GNU/Linux Distributions Timeline: https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg
+
 - 1969 - CODE NAME: UNIX
   * Unix es un sistema operativo portable, multitarea y multiusuario; desarrollado en 1969 por un grupo de empleados de los laboratorios Bell de AT&T, entre los que figuran Dennis Ritchie, Ken Thompson y Douglas McIlroy. El sistema, junto con todos los derechos fueron vendidos por AT&T a Novell.
 
@@ -14,6 +16,8 @@
   * Más información: https://es.wikipedia.org/wiki/GNU/Linux
 
 - 1993 - CODE NAME: Debian GNU/Linux
+
+  * https://www.debian.org/releases/
 
 "El conocimiento es libre"
 
